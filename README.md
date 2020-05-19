@@ -1,2 +1,2 @@
 # tictactoe
-> This is a bare-bones tick tac toe game made using javascript
+> This is a bare-bones tic tac toe game made using javascript
